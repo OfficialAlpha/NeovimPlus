@@ -6,4 +6,4 @@ In this project, I want to improve those who love Vim or Neovim to be as easy to
 - Move-Item $env:LOCALAPPDATA\nvim-data $env:LOCALAPPDATA\nvim-data.bak
 
 ## 2. How to clone the project:
-git clone https://github.com/OfficialAlpha/SigmaNvim $env:LOCALAPPDATA\nvim
+- git clone https://github.com/OfficialAlpha/SigmaNvim $env:LOCALAPPDATA\nvim
