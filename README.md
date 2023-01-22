@@ -7,8 +7,15 @@ In this project, I want to improve those who love Vim or Neovim to be as easy to
 - [NerdFonts](https://www.nerdfonts.com/ "NerdFonts")
 
 ## 2. How to backup old nvim folder, if exist avoid any errors installation occur:
+```
 - Move-Item $env:LOCALAPPDATA\nvim $env:LOCALAPPDATA\nvim.bak
+```
+
+```
 - Move-Item $env:LOCALAPPDATA\nvim-data $env:LOCALAPPDATA\nvim-data.bak
+```
 
 ## 3. How to clone the project:
+```
 - git clone https://github.com/OfficialAlpha/OScode $env:LOCALAPPDATA\nvim
+```
