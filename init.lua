@@ -1,4 +1,4 @@
-require("NeovimPlus.plugins-setup")
-require("NeovimPlus.core.options")
-require("NeovimPlus.core.keymaps")
-require("NeovimPlus.core.colorscheme")
+require("OScode.plugins-setup")
+require("OScode.core.options")
+require("OScode.core.keymaps")
+require("OScode.core.colorscheme")
