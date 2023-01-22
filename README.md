@@ -1,4 +1,4 @@
-# `OScode` stand for `Operating System Code` using Neovim ide/text editor.
+# The `OScode` stand for `Operating System Code` using Neovim ide/text editor.
 In this project, I want to improve those who love Vim or Neovim to be as easy to use as some IDEs.
 
 ## 1. Requirements:
